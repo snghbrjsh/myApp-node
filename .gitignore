@@ -1,0 +1,6 @@
+# webstorm specific files
+.idea
+
+# node dependecies 
+node_modules/*
+
